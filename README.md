@@ -52,6 +52,8 @@ I used free, open source tools to assemble my art exhibition. My "Relational Pos
 - Digital museum design: AI, HTML, CSS, JavaScript, Canva
 
 ## Introduction to The Creative CoLab LEAD Project
+<img src="images/Relational Possibilities Cover Art With QR_DatasetVersion.png">
+
 > our relations remember how we treat them
 > 
 > we waste away
